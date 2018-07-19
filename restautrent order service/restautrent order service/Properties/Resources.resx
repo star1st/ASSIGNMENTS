@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="amazing-design-different-types-of-cakes-designs-yummy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\amazing-design-different-types-of-cakes-designs-yummy.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d0fbebeb-e166-4e56-9a4a-da0ebfb1ca2a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d0fbebeb-e166-4e56-9a4a-da0ebfb1ca2a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hqdefault" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hqdefault.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img-pimages-choco-pineapple-cakes-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img-pimages-choco-pineapple-cakes-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3208a43df27204445883e9c0474fc56a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3208a43df27204445883e9c0474fc56a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imagesfresh strw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imagesfresh strw.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img44439" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img44439.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cakesclub_vanilla-pineapple-cake" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cakesclub_vanilla-pineapple-cake.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="23641553052_129dbb93b3_o" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\23641553052_129dbb93b3_o.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="emerald-mint-milkshake" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\emerald-mint-milkshake.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8c1ddcf3-ho_222_shamrock-shakes_thumbnail_s_en-US1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8c1ddcf3-ho_222_shamrock-shakes_thumbnail_s_en-US1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chicken-pear-and-blue-cheese-salad-40072-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chicken-pear-and-blue-cheese-salad-40072-1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="005195-03-black-purple-restaurant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\005195-03-black-purple-restaurant.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eggless-pineapple-pastry_620" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eggless-pineapple-pastry_620.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img444391" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img444391.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Red-wine-chocolate-shakes-web4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Red-wine-chocolate-shakes-web4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="42711471-abstract-purple-background-with-polygonal-design" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\42711471-abstract-purple-background-with-polygonal-design.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Badam_Kheer_Recipe_Indian_Spiced_Almond_Milk-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Badam_Kheer_Recipe_Indian_Spiced_Almond_Milk-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rabri-20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rabri-20.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="crystal-blue-texture-ice-white-light-background-dark-black-shadow-spots-bright-irregular-uneven-pattern-seamless-image-512x512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\crystal-blue-texture-ice-white-light-background-dark-black-shadow-spots-bright-irregular-uneven-pattern-seamless-image-512x512.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kesar_Pista_Kulfi_Recipe_Indian_Ice_Cream-1-2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Kesar_Pista_Kulfi_Recipe_Indian_Ice_Cream-1-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="baked crispy chicken" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\baked crispy chicken.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bever_00030_horiz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bever_00030_horiz.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dream-background-with-flower-design-vector-03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dream-background-with-flower-design-vector-03.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dal-Makhani" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dal-Makhani.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled-3-4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled-3-4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="celebration-cake-vanilla-cake-vanilla-buttercream-with-sprinkles.09cbb4820be1b4ad72d749971105e071" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\celebration-cake-vanilla-cake-vanilla-buttercream-with-sprinkles.09cbb4820be1b4ad72d749971105e071.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mmh_1062_trifle_horiz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mmh_1062_trifle_horiz.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chocolate-pastry-01-A" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chocolate-pastry-01-A.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="69127115-bright-texture-from-natural-amethyst-violet-crystal-background-for-your-jewelry-designs-" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\69127115-bright-texture-from-natural-amethyst-violet-crystal-background-for-your-jewelry-designs-.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Crispy-Fish-Sticks-with-Tartar-Sauce-3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Crispy-Fish-Sticks-with-Tartar-Sauce-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="679106-Coconut-Ice-Cream-Photo-by-Dianne-650x465" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\679106-Coconut-Ice-Cream-Photo-by-Dianne-650x465.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bnhyu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bnhyu.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Indigo-Restuarant-Award" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Indigo-Restuarant-Award.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JuicePlusCompleteShakes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JuicePlusCompleteShakes.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cake straberry" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cake straberry.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="56051c3ebd78f" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\56051c3ebd78f.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="crystal-blue-texture-ice-white-light-background-dark-black-shadow-spots-bright-irregular-uneven-pattern-seamless-image-512x5121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\crystal-blue-texture-ice-white-light-background-dark-black-shadow-spots-bright-irregular-uneven-pattern-seamless-image-512x5121.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maxresdefaultko" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\maxresdefaultko.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7997-abstract-dark-purple-hexagonal-background-design1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7997-abstract-dark-purple-hexagonal-background-design1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img444392" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img444392.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Palak-Paneer-1300x799" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Palak-Paneer-1300x799.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="purple_valentine_day_4044" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\purple_valentine_day_4044.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mkio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mkio.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="easter-polka-dot-cake-3-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\easter-polka-dot-cake-3-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pasta-carbonara-79827-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pasta-carbonara-79827-1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nagits" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nagits.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Chicken-Pakora" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Chicken-Pakora.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1494363782441" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1494363782441.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8c1ddcf3-ho_222_shamrock-shakes_thumbnail_s_en-US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8c1ddcf3-ho_222_shamrock-shakes_thumbnail_s_en-US.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Chocolate_Mirror_Cake_main" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Chocolate_Mirror_Cake_main.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bnhyu1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bnhyu1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7997-abstract-dark-purple-hexagonal-background-design" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7997-abstract-dark-purple-hexagonal-background-design.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1482193390408" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1482193390408.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="05427bf7487b1c05d855ed669e41f29f" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\05427bf7487b1c05d855ed669e41f29f.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chaomin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chaomin.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Arnotts-Freakshakes_003b" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Arnotts-Freakshakes_003b.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chocolate-hazelnut-coffee-milkshake-everydaydishes_com-H" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chocolate-hazelnut-coffee-milkshake-everydaydishes_com-H.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nutellaShakes-555x463" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nutellaShakes-555x463.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bnho candy cane ice" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bnho candy cane ice.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jk" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jk.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Strawberry-Chocolate-Cake-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Strawberry-Chocolate-Cake-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="27697156-abstract-background-design-template" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\27697156-abstract-background-design-template.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="26122847-IndigoRestaurant_cropped_1584x780" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\26122847-IndigoRestaurant_cropped_1584x780.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cakesclub_vanilla-pineapple-cake1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cakesclub_vanilla-pineapple-cake1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p5--2014_06_03_curry-soup-sweetpotato-coco_9999_24choco-taco-vegan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p5--2014_06_03_curry-soup-sweetpotato-coco_9999_24choco-taco-vegan.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Black-Icecream-Final-27-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Black-Icecream-Final-27-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="69777-stracciatella-eis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\69777-stracciatella-eis.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ChatpataPaneer2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ChatpataPaneer2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bndodh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bndodh.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1335329809detail_pry-no__ku06_06" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1335329809detail_pry-no__ku06_06.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reeses-cake-259101-173_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reeses-cake-259101-173_0.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="crispy-fried-prawn-cutlets-sweet-chilli-mayonnaise-50211119" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\crispy-fried-prawn-cutlets-sweet-chilli-mayonnaise-50211119.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cartons_rich-creamy_black-cherry-chocolate-chunk" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cartons_rich-creamy_black-cherry-chocolate-chunk.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dessert-Tour_1-300x300" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dessert-Tour_1-300x300.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buche-noel-pomwonderful-230sq_000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buche-noel-pomwonderful-230sq_000.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="easy-sausage-and-potato-casserole" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\easy-sausage-and-potato-casserole.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="best-ice-cream-recipes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\best-ice-cream-recipes.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="best-ice-cream-recipes1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\best-ice-cream-recipes1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

@@ -1,0 +1,36 @@
+C:\Users\Uzma Afzal\Documents\Visual Studio 2015\Projects\ado-Insert\ado-select\bin\Debug\ado-select.exe.config
+C:\Users\Uzma Afzal\Documents\Visual Studio 2015\Projects\ado-Insert\ado-select\bin\Debug\ado-select.exe
+C:\Users\Uzma Afzal\Documents\Visual Studio 2015\Projects\ado-Insert\ado-select\bin\Debug\ado-select.pdb
+C:\Users\Uzma Afzal\Documents\Visual Studio 2015\Projects\ado-Insert\ado-select\obj\Debug\ado-insert.csprojResolveAssemblyReference.cache
+C:\Users\Uzma Afzal\Documents\Visual Studio 2015\Projects\ado-Insert\ado-select\obj\Debug\ado_select.Form2.resources
+C:\Users\Uzma Afzal\Documents\Visual Studio 2015\Projects\ado-Insert\ado-select\obj\Debug\ado_select.MyConn.resources
+C:\Users\Uzma Afzal\Documents\Visual Studio 2015\Projects\ado-Insert\ado-select\obj\Debug\ado_select.Properties.Resources.resources
+C:\Users\Uzma Afzal\Documents\Visual Studio 2015\Projects\ado-Insert\ado-select\obj\Debug\ado-insert.csproj.GenerateResource.Cache
+C:\Users\Uzma Afzal\Documents\Visual Studio 2015\Projects\ado-Insert\ado-select\obj\Debug\ado-select.exe
+C:\Users\Uzma Afzal\Documents\Visual Studio 2015\Projects\ado-Insert\ado-select\obj\Debug\ado-select.pdb
+C:\Users\Ramesh\Desktop\Projects\ado-Insert\ado-select\bin\Debug\ado-select.exe.config
+C:\Users\Ramesh\Desktop\Projects\ado-Insert\ado-select\obj\Debug\ado-select.exe
+C:\Users\Ramesh\Desktop\Projects\ado-Insert\ado-select\obj\Debug\ado-select.pdb
+C:\Users\Ramesh\Desktop\Projects\ado-Insert\ado-select\bin\Debug\ado-select.exe
+C:\Users\Ramesh\Desktop\Projects\ado-Insert\ado-select\bin\Debug\ado-select.pdb
+C:\Users\Ramesh\Desktop\Projects\ado-Insert\ado-select\bin\Debug\mscorlib.dll
+C:\Users\Ramesh\Desktop\Projects\ado-Insert\ado-select\bin\Debug\normidna.nlp
+C:\Users\Ramesh\Desktop\Projects\ado-Insert\ado-select\bin\Debug\normnfc.nlp
+C:\Users\Ramesh\Desktop\Projects\ado-Insert\ado-select\bin\Debug\normnfd.nlp
+C:\Users\Ramesh\Desktop\Projects\ado-Insert\ado-select\bin\Debug\normnfkc.nlp
+C:\Users\Ramesh\Desktop\Projects\ado-Insert\ado-select\bin\Debug\normnfkd.nlp
+C:\Users\Ramesh\Desktop\Projects\ado-Insert\ado-select\obj\Debug\ado-insert.csprojResolveAssemblyReference.cache
+C:\Users\Ramesh\Desktop\Projects\ado-Insert\ado-select\obj\Debug\ado_select.Form2.resources
+C:\Users\Ramesh\Desktop\Projects\ado-Insert\ado-select\obj\Debug\ado_select.MyConn.resources
+C:\Users\Ramesh\Desktop\Projects\ado-Insert\ado-select\obj\Debug\ado_select.Properties.Resources.resources
+C:\Users\Ramesh\Desktop\Projects\ado-Insert\ado-select\obj\Debug\ado-insert.csproj.GenerateResource.Cache
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ado-Insert\ado-select\bin\Debug\ado-select.exe.config
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ado-Insert\ado-select\obj\Debug\ado-select.exe
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ado-Insert\ado-select\obj\Debug\ado-select.pdb
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ado-Insert\ado-select\bin\Debug\ado-select.exe
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ado-Insert\ado-select\bin\Debug\ado-select.pdb
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ado-Insert\ado-select\obj\Debug\ado-insert.csprojResolveAssemblyReference.cache
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ado-Insert\ado-select\obj\Debug\ado_select.Form2.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ado-Insert\ado-select\obj\Debug\ado_select.MyConn.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ado-Insert\ado-select\obj\Debug\ado_select.Properties.Resources.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\ado-Insert\ado-select\obj\Debug\ado-insert.csproj.GenerateResource.Cache

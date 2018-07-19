@@ -1,0 +1,23 @@
+c:\users\pervez iqbal\documents\visual studio 2012\Projects\insertdataq\insertdataq\bin\Debug\insertdataq.exe.config
+c:\users\pervez iqbal\documents\visual studio 2012\Projects\insertdataq\insertdataq\bin\Debug\insertdataq.exe
+c:\users\pervez iqbal\documents\visual studio 2012\Projects\insertdataq\insertdataq\bin\Debug\insertdataq.pdb
+c:\users\pervez iqbal\documents\visual studio 2012\Projects\insertdataq\insertdataq\obj\Debug\insertdataq.csprojResolveAssemblyReference.cache
+c:\users\pervez iqbal\documents\visual studio 2012\Projects\insertdataq\insertdataq\obj\Debug\insertdataq.Form1.resources
+c:\users\pervez iqbal\documents\visual studio 2012\Projects\insertdataq\insertdataq\obj\Debug\insertdataq.Form2.resources
+c:\users\pervez iqbal\documents\visual studio 2012\Projects\insertdataq\insertdataq\obj\Debug\insertdataq.Properties.Resources.resources
+c:\users\pervez iqbal\documents\visual studio 2012\Projects\insertdataq\insertdataq\obj\Debug\insertdataq.csproj.GenerateResource.Cache
+c:\users\pervez iqbal\documents\visual studio 2012\Projects\insertdataq\insertdataq\obj\Debug\insertdataq.exe
+c:\users\pervez iqbal\documents\visual studio 2012\Projects\insertdataq\insertdataq\obj\Debug\insertdataq.pdb
+G:\insertdataq\insertdataq\bin\Debug\insertdataq.exe.config
+G:\insertdataq\insertdataq\obj\Debug\insertdataq.exe
+G:\insertdataq\insertdataq\obj\Debug\insertdataq.pdb
+G:\insertdataq\insertdataq\bin\Debug\insertdataq.exe
+G:\insertdataq\insertdataq\bin\Debug\insertdataq.pdb
+G:\insertdataq\insertdataq\obj\Debug\insertdataq.csprojResolveAssemblyReference.cache
+G:\insertdataq\insertdataq\obj\Debug\insertdataq.Form1.resources
+G:\insertdataq\insertdataq\obj\Debug\insertdataq.Form2.resources
+G:\insertdataq\insertdataq\obj\Debug\insertdataq.Properties.Resources.resources
+G:\insertdataq\insertdataq\obj\Debug\insertdataq.csproj.GenerateResource.Cache
+D:\insertdataq\insertdataq\bin\Debug\insertdataq.exe.config
+D:\insertdataq\insertdataq\obj\Debug\insertdataq.exe
+D:\insertdataq\insertdataq\obj\Debug\insertdataq.pdb

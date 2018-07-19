@@ -1,0 +1,30 @@
+c:\users\pervez iqbal\documents\visual studio 2012\Projects\fileing1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\pervez iqbal\documents\visual studio 2012\Projects\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\pervez iqbal\documents\visual studio 2012\Projects\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\pervez iqbal\documents\visual studio 2012\Projects\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+c:\users\pervez iqbal\documents\visual studio 2012\Projects\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\pervez iqbal\documents\visual studio 2012\Projects\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\pervez iqbal\Documents\Visual Studio 2012\Projects\fileing1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\pervez iqbal\Documents\Visual Studio 2012\Projects\fileing1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\pervez iqbal\Documents\Visual Studio 2012\Projects\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\pervez iqbal\Documents\Visual Studio 2012\Projects\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\pervez iqbal\Documents\Visual Studio 2012\Projects\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\pervez iqbal\Documents\Visual Studio 2012\Projects\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+G:\fileing1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+G:\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+G:\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+G:\fileing1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+G:\fileing1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+G:\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+G:\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+G:\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+G:\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+G:\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+G:\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+G:\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\fileing1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\fileing1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Burn\osamafile\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Burn\osamafile\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Burn\osamafile\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

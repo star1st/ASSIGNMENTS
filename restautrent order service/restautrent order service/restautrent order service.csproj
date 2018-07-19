@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3FD46B70-B7D4-4E59-9071-2D1A0129E41B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>restautrent_order_service</RootNamespace>
+    <AssemblyName>restautrent order service</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form10.Designer.cs">
+      <DependentUpon>Form10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form11.Designer.cs">
+      <DependentUpon>Form11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form12.Designer.cs">
+      <DependentUpon>Form12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form13.Designer.cs">
+      <DependentUpon>Form13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form14.Designer.cs">
+      <DependentUpon>Form14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form15.Designer.cs">
+      <DependentUpon>Form15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form16.Designer.cs">
+      <DependentUpon>Form16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form17.Designer.cs">
+      <DependentUpon>Form17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form18.Designer.cs">
+      <DependentUpon>Form18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="od.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="od.Designer.cs">
+      <DependentUpon>od.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.cs">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8.Designer.cs">
+      <DependentUpon>Form8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9.Designer.cs">
+      <DependentUpon>Form9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form10.resx">
+      <DependentUpon>Form10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form11.resx">
+      <DependentUpon>Form11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form12.resx">
+      <DependentUpon>Form12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form13.resx">
+      <DependentUpon>Form13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form14.resx">
+      <DependentUpon>Form14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form15.resx">
+      <DependentUpon>Form15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form16.resx">
+      <DependentUpon>Form16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form17.resx">
+      <DependentUpon>Form17.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form18.resx">
+      <DependentUpon>Form18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="od.resx">
+      <DependentUpon>od.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8.resx">
+      <DependentUpon>Form8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9.resx">
+      <DependentUpon>Form9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\69127115-bright-texture-from-natural-amethyst-violet-crystal-background-for-your-jewelry-designs-.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\42711471-abstract-purple-background-with-polygonal-design.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Indigo-Restuarant-Award.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\26122847-IndigoRestaurant_cropped_1584x780.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\005195-03-black-purple-restaurant.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\23641553052_129dbb93b3_o.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefaultko.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\27697156-abstract-background-design-template.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purple_valentine_day_4044.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesfresh strw.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8c1ddcf3-ho_222_shamrock-shakes_thumbnail_s_en-US.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arnotts-Freakshakes_003b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chocolate-hazelnut-coffee-milkshake-everydaydishes_com-H.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emerald-mint-milkshake.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JuicePlusCompleteShakes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mkio.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nutellaShakes-555x463.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p5--2014_06_03_curry-soup-sweetpotato-coco_9999_24choco-taco-vegan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red-wine-chocolate-shakes-web4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kesar_Pista_Kulfi_Recipe_Indian_Ice_Cream-1-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\05427bf7487b1c05d855ed669e41f29f.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\amazing-design-different-types-of-cakes-designs-yummy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rabri-20.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-3-4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Palak-Paneer-1300x799.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7997-abstract-dark-purple-hexagonal-background-design.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crystal-blue-texture-ice-white-light-background-dark-black-shadow-spots-bright-irregular-uneven-pattern-seamless-image-512x512.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bnho candy cane ice.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\celebration-cake-vanilla-cake-vanilla-buttercream-with-sprinkles.09cbb4820be1b4ad72d749971105e071.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reeses-cake-259101-173_0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cakesclub_vanilla-pineapple-cake.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cakesclub_vanilla-pineapple-cake1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img-pimages-choco-pineapple-cakes-500x500.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\easter-polka-dot-cake-3-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chocolate_Mirror_Cake_main.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Strawberry-Chocolate-Cake-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dream-background-with-flower-design-vector-03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\679106-Coconut-Ice-Cream-Photo-by-Dianne-650x465.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Black-Icecream-Final-27-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chocolate-pastry-01-A.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buche-noel-pomwonderful-230sq_000.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dessert-Tour_1-300x300.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Badam_Kheer_Recipe_Indian_Spiced_Almond_Milk-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eggless-pineapple-pastry_620.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bndodh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bnhyu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Crispy-Fish-Sticks-with-Tartar-Sauce-3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chicken-Pakora.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chicken-pear-and-blue-cheese-salad-40072-1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\56051c3ebd78f.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\baked crispy chicken.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chaomin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crispy-fried-prawn-cutlets-sweet-chilli-mayonnaise-50211119.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\easy-sausage-and-potato-casserole.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hqdefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChatpataPaneer2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nagits.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3208a43df27204445883e9c0474fc56a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dal-Makhani.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pasta-carbonara-79827-1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d0fbebeb-e166-4e56-9a4a-da0ebfb1ca2a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mmh_1062_trifle_horiz.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\69777-stracciatella-eis.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\best-ice-cream-recipes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1482193390408.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img44439.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bnhyu1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cake straberry.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cartons_rich-creamy_black-cherry-chocolate-chunk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img444391.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img444392.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1494363782441.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8c1ddcf3-ho_222_shamrock-shakes_thumbnail_s_en-US1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crystal-blue-texture-ice-white-light-background-dark-black-shadow-spots-bright-irregular-uneven-pattern-seamless-image-512x5121.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7997-abstract-dark-purple-hexagonal-background-design1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1335329809detail_pry-no__ku06_06.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bever_00030_horiz.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\best-ice-cream-recipes1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

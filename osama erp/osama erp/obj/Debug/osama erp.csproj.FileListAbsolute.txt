@@ -1,0 +1,48 @@
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\bin\Debug\osama erp.exe.config
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\bin\Debug\osama erp.exe
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\bin\Debug\osama erp.pdb
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\obj\Debug\osama erp.csprojResolveAssemblyReference.cache
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\obj\Debug\osama_erp.Form1.resources
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\obj\Debug\osama_erp.Form13.resources
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\obj\Debug\osama_erp.Form2.resources
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\obj\Debug\osama_erp.Form3.resources
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\obj\Debug\osama_erp.Form4.resources
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\obj\Debug\osama_erp.Form5.resources
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\obj\Debug\osama_erp.Form6.resources
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\obj\Debug\osama_erp.Form7.resources
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\obj\Debug\osama_erp.Form8.resources
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\obj\Debug\osama_erp.Form9.resources
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\obj\Debug\osama_erp.Properties.Resources.resources
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\obj\Debug\osama erp.csproj.GenerateResource.Cache
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\obj\Debug\osama erp.exe
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\obj\Debug\osama erp.pdb
+c:\users\computer point\documents\visual studio 2012\Projects\osama erp\osama erp\obj\Debug\osama_erp.Form10.resources
+G:\osama erp\osama erp\bin\Debug\osama erp.exe.config
+G:\osama erp\osama erp\obj\Debug\osama erp.exe
+G:\osama erp\osama erp\obj\Debug\osama erp.pdb
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\bin\Debug\osama erp.exe.config
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama erp.exe
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama erp.pdb
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\bin\Debug\osama erp.exe
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\bin\Debug\osama erp.pdb
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama erp.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama_erp.Form1.resources
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama_erp.Form10.resources
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama_erp.Form11.resources
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama_erp.Form13.resources
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama_erp.Form2.resources
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama_erp.Form3.resources
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama_erp.Form4.resources
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama_erp.Form5.resources
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama_erp.Form6.resources
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama_erp.Form7.resources
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama_erp.Form8.resources
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama_erp.Form9.resources
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama_erp.Properties.Resources.resources
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama erp.csproj.GenerateResource.Cache
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama_erp.Form12.resources
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama_erp.Form14.resources
+C:\Users\COMPUTER POINT\Documents\osama erp\osama erp\obj\Debug\osama_erp.Form15.resources
+C:\Users\COMPUTER POINT\Documents\ERP SETUP FILE\osama erp\osama erp\osama erp\bin\Debug\osama erp.exe.config
+C:\Users\COMPUTER POINT\Documents\ERP SETUP FILE\osama erp\osama erp\osama erp\obj\Debug\osama erp.exe
+C:\Users\COMPUTER POINT\Documents\ERP SETUP FILE\osama erp\osama erp\osama erp\obj\Debug\osama erp.pdb

@@ -1,0 +1,12 @@
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\filing_03_read\filing_03_read\bin\Debug\filing_03_read.exe.config
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\filing_03_read\filing_03_read\bin\Debug\filing_03_read.exe
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\filing_03_read\filing_03_read\bin\Debug\filing_03_read.pdb
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\filing_03_read\filing_03_read\obj\Debug\filing_03_read.csprojResolveAssemblyReference.cache
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\filing_03_read\filing_03_read\obj\Debug\filing_03_read.Form1.resources
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\filing_03_read\filing_03_read\obj\Debug\filing_03_read.Properties.Resources.resources
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\filing_03_read\filing_03_read\obj\Debug\filing_03_read.csproj.GenerateResource.Cache
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\filing_03_read\filing_03_read\obj\Debug\filing_03_read.exe
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\filing_03_read\filing_03_read\obj\Debug\filing_03_read.pdb
+D:\filing_03_read\filing_03_read\bin\Debug\filing_03_read.exe.config
+D:\filing_03_read\filing_03_read\obj\Debug\filing_03_read.exe
+D:\filing_03_read\filing_03_read\obj\Debug\filing_03_read.pdb
